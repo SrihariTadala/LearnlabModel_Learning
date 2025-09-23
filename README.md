@@ -11,11 +11,7 @@
 
 > **Transforming static documents into dynamic, multi-modal learning experiences through advanced RAG, semantic chunking, and intelligent agent orchestration.**
 
-## 🌟 Quick Links
 
-- [GitHub Issues and Tasks](https://github.com/orgs/DAMG7245-Big-Data-Sys-SEC-02-Fall24/projects/7/views/1)
-- [Codelabs Documentation](https://codelabs-preview.appspot.com/?file_id=1kMzJ_qRJrDknPFatF1raPvsoJUatl_-tfJuICo7p4EM#0)
-- [Project Submission Video](https://drive.google.com/drive/u/0/folders/1wgYeUY-HsDuWcqGq1hSNVRQ3gvQBMLZC)
 
 ## 📋 Project Overview
 
