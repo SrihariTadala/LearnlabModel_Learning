@@ -1,4 +1,4 @@
-# LearnLab 🧠🔍
+# LearnLab 
 
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.68.0+-00a393.svg)](https://fastapi.tiangolo.com/)
@@ -13,41 +13,41 @@
 
 
 
-## 📋 Project Overview
+##  Project Overview
 
 LearnLab transforms traditional educational content into engaging, interactive learning experiences. Through advanced AI-powered document intelligence, we convert static PDFs into multiple synchronized learning formats:
 
-- 🎧 **Immersive Podcasts** - Audio learning with dynamically generated conversational scripts
-- 📝 **Smart Flashcards** - Spaced repetition learning with context-aware explanations  
-- 📊 **Adaptive Quizzes** - Multi-difficulty assessments with intelligent feedback
-- 📘 **Interactive Blogs** - Structured explanations with enhanced comprehension support
-- 🐦 **Shareable Tweets** - Concise knowledge summaries for social learning
+-  **Immersive Podcasts** - Audio learning with dynamically generated conversational scripts
+-  **Smart Flashcards** - Spaced repetition learning with context-aware explanations  
+- **Adaptive Quizzes** - Multi-difficulty assessments with intelligent feedback
+- **Interactive Blogs** - Structured explanations with enhanced comprehension support
+- **Shareable Tweets** - Concise knowledge summaries for social learning
 
 The system employs cutting-edge techniques like semantic chunking with dynamically adjusted thresholds, OpenAI embeddings, and window-based context preservation to ensure high-quality information retrieval and generation across all learning formats.
 
-## 🚀 Key Technical Features
+##  Key Technical Features
 
-### 📱 Advanced RAG Architecture
+###  Advanced RAG Architecture
 - **Semantic Chunking Engine** - Adaptive token segmentation (100-500) with 92% retrieval accuracy
 - **Dynamic Thresholding** - Context-aware document splitting with window size 2 for coherence
 - **Vector Database Integration** - Pinecone vector storage with optimized embeddings for sub-second retrieval
-
-### 🧩 Multi-Agent Orchestration
+- 
+### Multi-Agent Orchestration
 - **LangGraph Agent System** - Five specialized content transformation agents with distributed workflows
 - **State Management** - Context-preserving transitions between generation phases
 - **Semantic Caching** - Upstash vector caching with 97% similarity threshold, reducing API costs by 41%
 
-### 🔄 Real-Time Infrastructure
+### Real-Time Infrastructure
 - **WebSocket Stream Processing** - Live progress updates with bi-directional communication
 - **JWT Authentication** - Secure token-based identity management with granular permissions
 - **Cloud-Native Deployment** - GCP + AWS hybrid infrastructure with automatic failover
 
-### 📊 Learning Analytics
+###  Learning Analytics
 - **Progress Tracking** - Cross-format learning metrics with personalized insights
 - **Comprehension Analysis** - Performance evaluation across content types
 - **Engagement Metrics** - Detailed usage statistics for educational optimization
 
-## 🔬 Technical Implementation Details
+## Technical Implementation Details
 
 ### Advanced Semantic Chunking Algorithm
 The system implements a sophisticated chunking algorithm that significantly outperforms traditional fixed-size chunking methods:
@@ -305,7 +305,7 @@ flowchart TD
   P2 --> Q
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.9+
@@ -405,7 +405,7 @@ LearnLab/
 └── docker-compose.yml # Service orchestration
 ```
 
-## 🔍 Performance Metrics
+## Performance Metrics
 
 LearnLab demonstrates significant performance improvements:
 
@@ -415,7 +415,7 @@ LearnLab demonstrates significant performance improvements:
 - **78% Reduction in Content Generation Time**: With parallel agent execution
 - **99.9% Service Availability**: Through hybrid cloud infrastructure
 
-## ❓ Troubleshooting
+## Troubleshooting
 
 ### Common Setup Issues
 
@@ -443,6 +443,6 @@ LearnLab demonstrates significant performance improvements:
 
 
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
